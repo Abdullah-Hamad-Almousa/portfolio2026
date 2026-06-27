@@ -5,7 +5,7 @@ Welcome to the source for my personal portfolio website. This repository contain
 > Note: Replace placeholders (links, email, live demo URL) with your real information.
 
 ## Live demo
-- Live site: https://your-domain-or-github-pages-url
+- Live site: [https://your-domain-or-github-pages-url](https://abdullah-hamad-almousa.github.io/portfolio2026/)
 
 ## About
 A personal portfolio presenting selected projects, a short bio, skills, and contact information. The site is designed to be easy to navigate and mobile-friendly.
