@@ -16,7 +16,7 @@ This is my personal website where I put my projects and skills. It's not for sel
 ## How I built it
 
 - HTML, CSS, JavaScript
-- I might use React or other tools to make it faster
+- React and vite
 
 ## Visit my site
 
