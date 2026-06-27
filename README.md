@@ -1,100 +1,68 @@
-# Abdullah Hamad Almousa — Portfolio 2026
+# Abdullah Hamad Almousa - My Work & Experience
 
-Welcome to the source for my personal portfolio website. This repository contains the code, assets, and content used to present my projects, experience, and contact information.
+Hi! This is my portfolio. It shows what I can do and what I have learned.
 
-> Note: Replace placeholders (links, email, live demo URL) with your real information.
+## What is this?
 
-## Live demo
-- Live site: [https://your-domain-or-github-pages-url](https://abdullah-hamad-almousa.github.io/portfolio2026/)
+This is my personal website where I put my projects and skills. It's not for selling anything—it's just to show people what I can build and what I know.
 
-## About
-A personal portfolio presenting selected projects, a short bio, skills, and contact information. The site is designed to be easy to navigate and mobile-friendly.
+## What you will see here
 
-## Features
-- Home / About section with a short biography
-- Projects gallery with links, descriptions, and technologies used
-- Resume / Experience timeline
-- Contact form or contact links (email, social)
-- Responsive layout and accessible components
+- **About me** - A little bit about who I am
+- **My projects** - Things I made and worked on
+- **My skills** - The tools and languages I know
+- **How to reach me** - Ways to contact me
 
-## Built with
-- HTML, CSS, JavaScript (or your chosen framework: React / Next.js / Vue / Svelte)
-- Optional: Tailwind CSS, Bootstrap, or other UI library
-- Optional: Netlify / Vercel / GitHub Pages for deployment
+## How I built it
 
-## Getting started (local development)
-These instructions assume a typical JavaScript-based site. If your site uses plain HTML, skip the package manager steps.
+- HTML, CSS, JavaScript
+- I might use React or other tools to make it faster
 
-1. Clone the repo
+## Visit my site
 
+You can see my work here: [https://abdullah-hamad-almousa.github.io/portfolio2026/](https://abdullah-hamad-almousa.github.io/portfolio2026/)
+
+## How I made it work (if you want to know)
+
+1. I got the code from GitHub
+
+   ```
    git clone https://github.com/Abdullah-Hamad-Almousa/portfolio2026.git
-   cd portfolio2026
+   ```
 
-2. Install dependencies (if applicable)
+2. I installed what I need (if needed)
 
+   ```
    npm install
-   # or
-   yarn
-   # or
-   pnpm install
+   ```
 
-3. Run the dev server
+3. I run it to test
 
+   ```
    npm run dev
-   # or
-   npm start
+   ```
 
-4. Open http://localhost:3000 (or the port your framework uses) and confirm the site loads.
+4. Open your computer's browser and go to `http://localhost:3000`
 
-## Build & Deploy
-Build the production artifacts:
+## What is in each folder
 
-npm run build
+- `/src` - All my code and pages
+- `/public` - Pictures and files I use on the site
 
-Then deploy the build folder to your chosen host (Vercel, Netlify, GitHub Pages, or any static host).
+## What is my goal with this?
 
-If using GitHub Pages (main branch):
-- Push the build output to the `gh-pages` branch or use a deployment action.
+I made this site to:
+- Show companies what I can do
+- Put my projects in one place
+- Make it easy for people to know me and my work
 
-## Project structure (example)
-- /public or /static — static assets (images, icons)
-- /src — application source (components, styles, pages)
-- package.json — scripts and dependencies
-- README.md — this file
+## Want to talk to me?
 
-Adjust to match your repository layout.
+- **GitHub**: https://github.com/Abdullah-Hamad-Almousa
+- **Email**: your.email@example.com
 
-## Customize
-- Update your name and headline in the main header.
-- Replace placeholder project entries with real project titles, descriptions, links, and screenshots.
-- Add links to your resume, LinkedIn, Twitter, or email.
-
-## Accessibility & SEO
-- Use semantic HTML (main, nav, header, footer)
-- Add descriptive alt text for images
-- Include meta tags for title, description, and social previews
-
-## Contributing
-If you want to improve content, fix typos, or update styles:
-1. Fork the repo
-2. Create a feature branch
-3. Make changes and commit
-4. Open a pull request
-
-## License
-This repository is available under the MIT License. See LICENSE file for details.
-
-## Contact
-- GitHub: https://github.com/Abdullah-Hamad-Almousa
-- Email: your.email@example.com
-
-Replace the contact information above with your preferred contact methods.
+Just reach out if you want to work together or talk!
 
 ---
 
-If you want, I can:
-- Tailor this README to the exact tech stack used in the project (React, Next.js, plain HTML, etc.),
-- Create a short resume section and a list of projects pulled automatically from a JSON file, or
-- Add a GitHub Actions workflow to build and deploy to GitHub Pages or Vercel.
-
-Tell me which of the above you want and I will update the README and/or add configuration files.
+This is my personal work. Feel free to look around and see what I can do!
