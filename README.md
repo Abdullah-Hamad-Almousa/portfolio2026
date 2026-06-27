@@ -22,33 +22,6 @@ This is my personal website where I put my projects and skills. It's not for sel
 
 You can see my work here: [https://abdullah-hamad-almousa.github.io/portfolio2026/](https://abdullah-hamad-almousa.github.io/portfolio2026/)
 
-## How I made it work (if you want to know)
-
-1. I got the code from GitHub
-
-   ```
-   git clone https://github.com/Abdullah-Hamad-Almousa/portfolio2026.git
-   ```
-
-2. I installed what I need (if needed)
-
-   ```
-   npm install
-   ```
-
-3. I run it to test
-
-   ```
-   npm run dev
-   ```
-
-4. Open your computer's browser and go to `http://localhost:3000`
-
-## What is in each folder
-
-- `/src` - All my code and pages
-- `/public` - Pictures and files I use on the site
-
 ## What is my goal with this?
 
 I made this site to:
@@ -59,7 +32,7 @@ I made this site to:
 ## Want to talk to me?
 
 - **GitHub**: https://github.com/Abdullah-Hamad-Almousa
-- **Email**: your.email@example.com
+- **Email**: abdullahmlwork@gmail.com
 
 Just reach out if you want to work together or talk!
 
