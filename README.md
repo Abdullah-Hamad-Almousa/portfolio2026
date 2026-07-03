@@ -13,7 +13,7 @@ This is my personal website where I put my projects and skills. It's not for sel
 - **My skills** - The tools and languages I know
 - **How to reach me** - Ways to contact me
 
-## How I built it
+## How I built it 
 
 - HTML, CSS, JavaScript
 - React and vite
